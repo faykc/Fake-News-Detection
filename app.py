@@ -1,4 +1,3 @@
-import random
 from model import Model
 from flask import Flask, request
 from pymessenger.bot import Bot
