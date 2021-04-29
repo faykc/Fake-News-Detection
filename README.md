@@ -7,7 +7,7 @@
 
   <h2 align="center">Verify-It</h2>
   <p align="center">
-    An Open Source Facebook Messenger Bot For Verifying News Articles Using Machine Learning and Natural Language Processing.
+    A Facebook Messenger Bot For Verifying News Articles Using Machine Learning and Natural Language Processing.
     <br />
     <br />
     <a href="https://github.com/faykc/Verify-It/issues">Report Bug</a>
