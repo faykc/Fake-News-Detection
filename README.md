@@ -106,14 +106,6 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/NewFeature`)
 5. Open a Pull Request
 
-
-
-<!-- CONTACT -->
-## Contact
-
-Muhammad Fayk Chaudhry - [@Fayk_C](https://twitter.com/fayk_c?lang=en) - faykc123@gmail.com
-
-
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
